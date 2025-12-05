@@ -23,7 +23,6 @@ function App(){
     <Message/>
     <hr/>
     <User/>
-    <hr/>
   </div>
 }
 
